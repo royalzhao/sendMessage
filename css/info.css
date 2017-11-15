@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: "微软雅黑";
+    padding: 0 15px;
+}
+.head{
+    text-align: center;
+}

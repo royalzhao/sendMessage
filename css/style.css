@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: "微软雅黑";
+    
+}
+.head{
+    text-align: center;
+}
+.head img{
+    margin-top: 20px;
+}
+.head h2{
+    color: #32731F;
+    font-size: 22px;
+    text-align: center;
+}
+.head h4{
+    color: #666;
+    font-size: 14px;
+    text-align: center;
+}
+.table-responsive{
+    margin-top: 15px;
+}
+table tr td:nth-of-type(1){
+    text-align: right;
+}
+table tr th{
+   
+}
